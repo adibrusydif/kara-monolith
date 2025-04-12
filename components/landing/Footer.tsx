@@ -14,7 +14,6 @@ export default function Footer() {
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 text-green-500 hover:text-green-400"
               >
-                <FaWhatsapp />
                 Chat on WhatsApp
               </a>
             </div>

@@ -57,7 +57,7 @@ export default function Home() {
               <div className="text-center sm:text-left">
                 <h3 className="text-xl font-bold mb-4">Contact Us</h3>
                 <p>Email: info@karaakademi.id</p>
-                <p>Phone: +62 123 4567 890</p>
+                <p>Phone: +62 813-9999-8092</p>
               </div>
               <div className="text-center sm:text-left">
                 <h3 className="text-xl font-bold mb-4">Follow Us</h3>
